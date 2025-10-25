@@ -10,3 +10,4 @@ This project was built using jekyll with a [prebuilt theme](https://github.com/a
 - Point in polygon and polyhedron. Uses like geofencing.
 - FFT algorithm. Uses like image compression.
 - Algorithms I find interesting like r-trees, bloom filters, etc.
+- String metric algorithms
