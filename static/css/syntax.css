@@ -1,3 +1,4 @@
+/*
 .highlight {
     background-color: #1e1c3f;
     padding: 7px 7px 7px 10px;
@@ -9,16 +10,15 @@ code {
     font-family:'Bitstream Vera Sans Mono','Courier', monospace;
     color: #d8d8d8;
 }
-
-/*
-.highlighter-rouge { 
-    background-color: #FAFAFA; 
-    color: #FF554A; 
-    font-size: 16px;
-}
 */
 
-.highlight  { background: #282a36; color: #f8f8f2 }
+.highlighter-rouge { 
+    background-color: var(--color-highlight-low); 
+    color: var(--color-love);
+    font-size: 16px;
+}
+
+/*.highlight  { background: #282a36; color: #f8f8f2 } */
 .highlight .hll { background-color: #f1fa8c }
 .highlight .c { color: #6272a4 } /* Comment */
 .highlight .err { color: #f8f8f2 } /* Error */

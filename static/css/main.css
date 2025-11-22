@@ -50,10 +50,10 @@ h2, h3 {
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: var(--color-highlight-med);
+  color: var(--color-foam);
 }
 a:hover {
-  color: var(--color-foam);
+  color: var(--color-pine);
   text-decoration: underline;
 }
 
@@ -114,7 +114,7 @@ div.col-sm-3 strong {
 }
 div.col-sm-3 div.profile-about {
   margin-top: 10px;
-  color: var(--color-text); /*#8C8C8C;*/
+  color: var(--color-text);
 }
 
 /* Pagination */
@@ -156,7 +156,7 @@ div.col-sm-3 div.profile-about {
   color: var(--color-text);
 }
 .social li a:hover {
-  color: var(--color-highlight-med);
+  color: var(--color-pine);
 }
 
 .share-page {

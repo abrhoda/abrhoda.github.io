@@ -15,7 +15,7 @@ h3.project-headlines {
 
 span.tags {
   font-size: 10px;
-  border-bottom: 1px #888 dotted;
+  border-bottom: 1px var(--color-subtle) dotted;
   margin: 0 5px;
 }
 span.tags:first-child {
@@ -67,7 +67,7 @@ span.tag-cloud {
   display: inline;
 }
 .tag-cloud.active {
-  background: #ccc;
+  background: var(--color-pine);
 }
 .project-item.not-show {
   display: none;
@@ -76,5 +76,5 @@ a.project-detail:hover {
   text-decoration: none;
 }
 a.project-detail:hover h3 {
-  color: #62A253;
+  color: var(--color-pine);
 }
