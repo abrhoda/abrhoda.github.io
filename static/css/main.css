@@ -57,6 +57,12 @@ a:hover {
   text-decoration: underline;
 }
 
+.btn-tags {
+  color: var(--color-text);
+  background: var(--color-muted);
+  border: 1px solid var(--color-gold)
+}
+
 /* Layout */
 .main-layout {
   background: var(--color-base);
