@@ -76,9 +76,9 @@ a:hover {
 
 /* Content */
 div.content pre {
-  background: var(--color-text);
+  background: var(--color-base);
   padding: 10px;
-  color: var(--color-base);
+  color: var(--color-text);
   overflow-x: auto;
   font-family: 'Bitstream Vera Sans Mono','Courier', monospace;
   font-size: 12px;
