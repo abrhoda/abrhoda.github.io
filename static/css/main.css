@@ -60,7 +60,7 @@ a:hover {
 .btn-tags {
   color: var(--color-text);
   background: var(--color-muted);
-  border: 1px solid var(--color-gold)
+  border: 1px solid var(--color-text);
 }
 
 /* Layout */
