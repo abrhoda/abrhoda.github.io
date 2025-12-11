@@ -24,6 +24,7 @@ colorPalette = 'gruvebox'
 hideHeader = false
 showFooter = false
 footerContent = 'Random footer content to see how it displays'
+faviconPath = 'favicons'
 
 # Breadcrumbs
 [params.breadcrumbs]
