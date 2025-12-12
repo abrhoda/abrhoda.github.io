@@ -8,6 +8,7 @@ Planning for future post.
 - [ ] point in polygon and polyhedron for uses in things like geofencing.
 - [ ] r-tree.
 - [ ] bloom filter.
+- [ ] FFT algorithms and how they are used in compression.
 
 ## C
 - [ ] build an allocator/memory arena. Differences between them.
@@ -22,4 +23,3 @@ Planning for future post.
 ## Go
 - [ ] sql parser that can query both postgresql and the filesystem (json files).
 - [ ] stack vs heap allocations and escape analysis.
-- [ ]

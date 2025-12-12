@@ -1,8 +1,7 @@
 ---
 title: "Case Insensitive String Comparison In C"
 date: "2025-12-11"
-summary: "A quick ANSI C programming snippet for case insensitive comparison between two strings for the first n characters."
-description: "Compare the first n characters of two strings, regardless of case."
+description: "ANSI C case insensitive string comparison of the first n characters in two strings."
 toc: false
 readTime: false
 autonumber: false

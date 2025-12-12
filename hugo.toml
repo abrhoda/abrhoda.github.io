@@ -22,6 +22,7 @@ If that's interesting to you, feel free to read more seriously [about me](/about
 theme = 'auto'
 colorPalette = 'gruvebox'
 hideHeader = false
+listSummaries = false
 showFooter = false
 footerContent = 'Random footer content to see how it displays'
 faviconPath = 'favicons'
