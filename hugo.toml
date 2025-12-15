@@ -13,9 +13,9 @@ description = "Exploring software concepts with building (but mostly breaking) s
 # Intro on main page, content in markdown
 homeIntroTitle = 'Howdy and Welcome!'
 homeIntroContent = """
-I'm a software engineer who is armed with a $10 Amazon Basics keyboard, vim, a refurbished HP ProDesk running fedora linux, and a deep loathing for having to install a dependency to take care of anything. So enjoy!
+I'm a software engineer who has a lot of curiousity, a few wildly unpopular opinions, a $10 Amazon Basics keyboard, vim, a refurbished HP ProDesk running fedora linux, and a deep loathing for installing a dependency to take care of anything. So enjoy!
 
-If that's interesting to you, feel free to read more seriously [about me](/about) or to look at my [posts](/posts).
+If that's interesting to you, feel free to read more seriously [about me](/about) or look at my [posts](/posts).
 """
 
 # Appearance
