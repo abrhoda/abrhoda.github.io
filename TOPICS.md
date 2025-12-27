@@ -11,6 +11,7 @@ Planning for future post.
 - [ ] FFT algorithms and how they are used in compression.
 
 ## C
+- [ ] basics series
 - [ ] build an allocator/memory arena. Differences between them.
 - [ ] build a hashmap and different hashing algorithms.
 - [ ] lock free queue
