@@ -28,6 +28,7 @@ listSummaries = false
 showFooter = false
 footerContent = 'Random footer content to see how it displays'
 faviconPath = 'favicons'
+paginationSize = 50
 
 # Breadcrumbs
 [params.breadcrumbs]
