@@ -15,7 +15,7 @@ showTags: true
 
 I've written many enterprise type higher level languages over the years but I always come back to writing C for my personal projects. I like writing programs and tools in a lower level language. However, the return to C always has me searching basic syntax or concepts again and wondering if the 15 year old stack overflow post is still relevant.
 
-That's what this series is all about. For all those times I've searched basics like "minimum size of int type" to more complex topics like "function pointer syntax" and everything in between. I hope this serves 2 purposes: I learn and retain more through writing about concepts and others can get an understanding of the concepts.
+That's what this series is all about. For all those times I've searched "minimum size of int type" to "function pointer syntax" and everything in between. I hope this serves 2 purposes: I learn and retain more through writing about concepts and others can get an understanding of the concepts.
 
 All posts in the series will have a title starting with `Basics of C` as well as the tags of `basics` and `c` so that the posts are grouped and easily searchable on the website.
 
