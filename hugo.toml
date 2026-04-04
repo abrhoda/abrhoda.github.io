@@ -15,13 +15,6 @@ homeIntroTitle = 'Howdy and Welcome!'
 homeIntroContent = """
 I'm building software that I find interesting. I have a lot of questions, few wildly unpopular opinions, and a deep loathing for installing a dependency to take care of anything. So enjoy!
 
-None of the content on this website is generated through the use of an LLM.
-
-Current development environment:
-  - refurbished HP ProDesk running some linux distro
-  - $10 Amazon Basics keyboard
-  - vim with a ~40 line vimrc.
-
 If that's interesting to you, feel free to read more seriously [about me](/about) or look at my [posts](/posts).
 """
 
