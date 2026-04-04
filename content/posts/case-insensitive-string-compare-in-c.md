@@ -1,7 +1,7 @@
 ---
-title: "Case Insensitive String Comparison In C"
+title: "Case Insensitive String Comparison In C89"
 date: "2025-12-11"
-description: "ANSI C case insensitive string comparison of the first n characters in two strings."
+description: "C89 case insensitive string comparison of the first n characters in two strings."
 toc: false
 readTime: false
 autonumber: false
